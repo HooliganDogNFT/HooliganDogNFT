@@ -249,9 +249,9 @@
 
   .u-section-1 .u-list-1 {
     width: 340px;
-    margin-top: 121px;
-    margin-bottom: 10px;
-    margin-left: calc(((100% - 340px) / 2) + -39px);
+    margin-top: 116px;
+    margin-bottom: 15px;
+    margin-left: calc(((100% - 340px) / 2) + -27px);
   }
 
   .u-section-1 .u-repeater-1 {
@@ -259,31 +259,31 @@
   }
 
   .u-section-1 .u-image-1 {
-    width: 155px;
+    width: 154px;
     height: 155px;
-    margin-top: 25px;
-    margin-right: -40px;
+    margin-top: 27px;
+    margin-right: -22px;
   }
 
   .u-section-1 .u-image-2 {
-    width: 155px;
+    width: 154px;
     height: 155px;
-    margin-top: 25px;
-    margin-right: -40px;
+    margin-top: 27px;
+    margin-right: -22px;
   }
 
   .u-section-1 .u-image-3 {
-    width: 155px;
+    width: 154px;
     height: 155px;
-    margin-top: 25px;
-    margin-right: -40px;
+    margin-top: 27px;
+    margin-right: -22px;
   }
 
   .u-section-1 .u-image-4 {
-    width: 155px;
+    width: 154px;
     height: 155px;
-    margin-top: 25px;
-    margin-right: -40px;
+    margin-top: 27px;
+    margin-right: -22px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 145px;
@@ -434,24 +434,24 @@
 } .u-section-3 {
   background-image: url("images/Remini20220301181928641.jpg");
   background-position: 50% 50%;
-  min-height: 1318px;
+  min-height: 1313px;
 }
 
 @media (max-width: 1199px) {
    .u-section-3 {
-    min-height: 1125px;
+    min-height: 1103px;
   }
 }
 
 @media (max-width: 991px) {
    .u-section-3 {
-    min-height: 862px;
+    min-height: 873px;
   }
 }
 
 @media (max-width: 767px) {
    .u-section-3 {
-    min-height: 647px;
+    min-height: 655px;
   }
 }
 
@@ -799,7 +799,7 @@
 
 .u-section-5 .u-text-4 {
   text-align: left;
-  margin: 60px 885px 0 111px;
+  margin: 60px 895px 0 101px;
 }
 
 .u-section-5 .u-text-5 {
@@ -842,14 +842,13 @@
 
   .u-section-5 .u-text-4 {
     width: auto;
-    margin-top: 64px;
-    margin-right: 722px;
-    margin-left: 74px;
+    margin-top: 54px;
+    margin-right: 720px;
+    margin-left: 76px;
   }
 
   .u-section-5 .u-text-5 {
     width: auto;
-    margin-top: 111px;
     margin-right: 674px;
     margin-left: 88px;
   }
