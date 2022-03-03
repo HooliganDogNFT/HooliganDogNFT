@@ -36664,7 +36664,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-repeater-1 {
     min-height: 83px;
-    grid-auto-columns: calc(25% - 61.5px);
   }
 
   .u-footer .u-container-layout-1 {
